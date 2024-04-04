@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>NugetCochesProfe</PackageId>
+    <Title>Nuget de coches de Juernes</Title>
+    <Authors>Paco,Profe</Authors>
+    <Description>Estamos haciendo un proyecto de Nuget por la mañana.</Description>
+    <PackageIcon>13157742_14717373_600.png</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\Pictures\13157742_14717373_600.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
