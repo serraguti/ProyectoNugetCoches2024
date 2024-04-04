@@ -9,11 +9,12 @@
     <Title>Nuget de coches de Juernes</Title>
     <Authors>Paco,Profe</Authors>
     <Description>Estamos haciendo un proyecto de Nuget por la mañana.</Description>
-    <PackageIcon>13157742_14717373_600.png</PackageIcon>
+    <PackageIcon>batman.png</PackageIcon>
+    <PackageTags>juernes,paco,profe,cars</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="..\..\..\..\Pictures\13157742_14717373_600.png">
+    <None Include="..\..\..\..\Pictures\batman.png">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
